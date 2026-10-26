@@ -1,0 +1,376 @@
+{
+  "users": [
+    {
+      "id": "e655fd52-c2da-4a62-b96d-e6f7e8d91103",
+      "name": "Sumera",
+      "email": "257r1a66q7@cmrtc.ac.in",
+      "salt": "b035814ac77ea521b4a8dc47b164bab8",
+      "passwordHash": "5c96177b6efeb5e3c2cf2a2e43fcc99245e10d5a7793f8f573eb484fb6b1d8b0e8c7e3c5ab6f6051577be0a8fe509447415cbd10a110def7ff5f979e42702b51",
+      "tasks": [
+        {
+          "id": "55e1a7fd-cae3-4791-a170-ee7ecd05f751",
+          "title": "Complete DBMS Assignment",
+          "description": "Finish the normalization exercises and submit the final document.",
+          "category": "Study",
+          "priority": "High",
+          "status": "Completed",
+          "dueDate": "2026-10-07",
+          "dueTime": "17:00",
+          "reminder": "2026-10-07T17:00",
+          "subtasks": [
+            {
+              "id": "6ba4cbba-dcfb-4781-bafe-1117beda785b",
+              "text": "Review assignment brief",
+              "done": true
+            },
+            {
+              "id": "08c52adb-9fde-4612-b2f3-c46f99faa60e",
+              "text": "Complete ER diagrams",
+              "done": true
+            },
+            {
+              "id": "3a418ed4-94d0-4ad3-bdcd-ac9efb25e50b",
+              "text": "Write normalization answers",
+              "done": false
+            },
+            {
+              "id": "05767e5a-a612-40c3-aa8b-78a951be6a4f",
+              "text": "Proofread and submit",
+              "done": false
+            }
+          ],
+          "createdAt": "2026-10-06T21:39:57.753Z",
+          "updatedAt": "2026-10-06T21:40:10.337Z"
+        },
+        {
+          "id": "31d9b8f3-7755-4e17-b031-d4390e663d76",
+          "title": "Prepare Java Presentation",
+          "description": "Put together a concise deck for the object-oriented programming seminar.",
+          "category": "Work",
+          "priority": "Medium",
+          "status": "Completed",
+          "dueDate": "2026-10-08",
+          "dueTime": "10:30",
+          "reminder": "2026-10-08T10:30",
+          "subtasks": [
+            {
+              "id": "d0467beb-9a2e-4d56-8910-bed26235463f",
+              "text": "Outline key concepts",
+              "done": false
+            },
+            {
+              "id": "25146225-300d-45d7-8f8d-74b2a8ebadb3",
+              "text": "Build presentation slides",
+              "done": false
+            },
+            {
+              "id": "74f7d642-6704-4d54-bb15-1b83b65c7717",
+              "text": "Rehearse the demo",
+              "done": false
+            }
+          ],
+          "createdAt": "2026-10-06T21:39:57.753Z",
+          "updatedAt": "2026-10-06T21:40:13.984Z"
+        },
+        {
+          "id": "345711c3-3b60-436d-a2ce-daa3630a361c",
+          "title": "Team Project Meeting",
+          "description": "Align on the sprint scope and agree on owners for the next milestone.",
+          "category": "Work",
+          "priority": "High",
+          "status": "In Progress",
+          "dueDate": "2026-10-08",
+          "dueTime": "14:00",
+          "reminder": "2026-10-08T14:00",
+          "subtasks": [],
+          "createdAt": "2026-10-06T21:39:57.753Z",
+          "updatedAt": "2026-10-06T21:39:57.753Z"
+        },
+        {
+          "id": "886351d2-e466-461a-baf5-35789c5a92ae",
+          "title": "Complete Mathematics Practice",
+          "description": "Work through this week's calculus problem set.",
+          "category": "Study",
+          "priority": "Medium",
+          "status": "To Do",
+          "dueDate": "2026-10-09",
+          "dueTime": "18:00",
+          "reminder": "2026-10-09T18:00",
+          "subtasks": [],
+          "createdAt": "2026-10-06T21:39:57.753Z",
+          "updatedAt": "2026-10-06T21:39:57.753Z"
+        },
+        {
+          "id": "11fc4e7c-179f-4e72-a5ae-372baeaaace6",
+          "title": "Submit Software Engineering Lab",
+          "description": "Package the project files and upload the lab report.",
+          "category": "Study",
+          "priority": "High",
+          "status": "To Do",
+          "dueDate": "2026-10-10",
+          "dueTime": "16:00",
+          "reminder": "2026-10-10T16:00",
+          "subtasks": [],
+          "createdAt": "2026-10-06T21:39:57.753Z",
+          "updatedAt": "2026-10-06T21:39:57.753Z"
+        },
+        {
+          "id": "343d3687-d1b4-4134-8dcc-4f72854131c8",
+          "title": "Buy Study Materials",
+          "description": "Pick up the recommended textbook and a few supplies.",
+          "category": "Shopping",
+          "priority": "Low",
+          "status": "To Do",
+          "dueDate": "2026-10-11",
+          "dueTime": "12:00",
+          "reminder": "2026-10-11T12:00",
+          "subtasks": [],
+          "createdAt": "2026-10-06T21:39:57.753Z",
+          "updatedAt": "2026-10-06T21:39:57.753Z"
+        },
+        {
+          "id": "7a1d1f63-7f13-4664-b1b4-95e947dc9672",
+          "title": "Morning Workout",
+          "description": "A short strength session and a cooldown walk.",
+          "category": "Health",
+          "priority": "Low",
+          "status": "Completed",
+          "dueDate": "2026-10-06",
+          "dueTime": "07:30",
+          "reminder": "",
+          "subtasks": [],
+          "createdAt": "2026-10-06T21:39:57.753Z",
+          "updatedAt": "2026-10-06T21:39:57.753Z"
+        },
+        {
+          "id": "36f77a3b-c3b3-4c90-8e57-c80367d548aa",
+          "title": "Plan the Weekend",
+          "description": "Block out some time to recharge and catch up with friends.",
+          "category": "Personal",
+          "priority": "Low",
+          "status": "Completed",
+          "dueDate": "2026-10-05",
+          "dueTime": "19:00",
+          "reminder": "",
+          "subtasks": [],
+          "createdAt": "2026-10-06T21:39:57.753Z",
+          "updatedAt": "2026-10-06T21:39:57.753Z"
+        },
+        {
+          "id": "f56b5984-470e-4e76-b7ad-cfb6e02cea52",
+          "title": "Review project notes",
+          "description": "Capture the decisions and action items from the client call.",
+          "category": "Work",
+          "priority": "Medium",
+          "status": "Completed",
+          "dueDate": "2026-10-04",
+          "dueTime": "11:00",
+          "reminder": "",
+          "subtasks": [],
+          "createdAt": "2026-10-06T21:39:57.753Z",
+          "updatedAt": "2026-10-06T21:39:57.753Z"
+        }
+      ],
+      "categories": [
+        "Work",
+        "Study",
+        "Personal",
+        "Health",
+        "Shopping",
+        "Other"
+      ],
+      "preferences": {
+        "theme": "light",
+        "emailNotifications": true,
+        "taskReminders": true,
+        "deadlineNotifications": true
+      }
+    },
+    {
+      "id": "77c8a3e8-8ed2-4db7-b0f7-7ce234d25ffd",
+      "name": "Alex Morgan",
+      "email": "demo@taskflow.local",
+      "salt": "efcb577dcf1f2da4cf1894bc2eb09f3d",
+      "passwordHash": "6bcfb4dfd41cd469b849e21573395b2fa6b814e712f4d5893912689683878a6490c61b4195cb2236b8dae658fec84c5e8fc93be269c77682268b9feaf3475a4f",
+      "tasks": [
+        {
+          "id": "6a70c954-3e01-42a7-997c-4c5c5c9f00f1",
+          "title": "Complete DBMS Assignment",
+          "description": "Finish the normalization exercises and submit the final document.",
+          "category": "Study",
+          "priority": "High",
+          "status": "In Progress",
+          "dueDate": "2026-10-07",
+          "dueTime": "17:00",
+          "reminder": "2026-10-07T17:00",
+          "subtasks": [
+            {
+              "id": "9921d749-5d15-4440-9bbc-3f9c1e75b331",
+              "text": "Review assignment brief",
+              "done": true
+            },
+            {
+              "id": "f59be280-9072-43d8-b5e9-6d0c59fc58a5",
+              "text": "Complete ER diagrams",
+              "done": true
+            },
+            {
+              "id": "369de333-e058-46ec-9f16-24b281ab9dc8",
+              "text": "Write normalization answers",
+              "done": false
+            },
+            {
+              "id": "bfbd8300-f158-40fe-8e0a-cb247a64b74b",
+              "text": "Proofread and submit",
+              "done": false
+            }
+          ],
+          "createdAt": "2026-10-06T21:41:59.968Z",
+          "updatedAt": "2026-10-06T21:41:59.968Z"
+        },
+        {
+          "id": "e6826644-1d00-4076-8eca-2b4dceba2078",
+          "title": "Prepare Java Presentation",
+          "description": "Put together a concise deck for the object-oriented programming seminar.",
+          "category": "Work",
+          "priority": "Medium",
+          "status": "To Do",
+          "dueDate": "2026-10-08",
+          "dueTime": "10:30",
+          "reminder": "2026-10-08T10:30",
+          "subtasks": [
+            {
+              "id": "f2bd5781-0964-449d-93a9-596809fdd6c0",
+              "text": "Outline key concepts",
+              "done": false
+            },
+            {
+              "id": "92c1a282-49dd-4cb4-8794-a7f48cd73b4f",
+              "text": "Build presentation slides",
+              "done": false
+            },
+            {
+              "id": "dd9e3b9d-5a12-40bf-926b-7066bfecf864",
+              "text": "Rehearse the demo",
+              "done": false
+            }
+          ],
+          "createdAt": "2026-10-06T21:41:59.968Z",
+          "updatedAt": "2026-10-06T21:41:59.968Z"
+        },
+        {
+          "id": "aba18b0f-8d00-438e-8140-9338d186fd2b",
+          "title": "Team Project Meeting",
+          "description": "Align on the sprint scope and agree on owners for the next milestone.",
+          "category": "Work",
+          "priority": "High",
+          "status": "In Progress",
+          "dueDate": "2026-10-08",
+          "dueTime": "14:00",
+          "reminder": "2026-10-08T14:00",
+          "subtasks": [],
+          "createdAt": "2026-10-06T21:41:59.968Z",
+          "updatedAt": "2026-10-06T21:41:59.968Z"
+        },
+        {
+          "id": "448de3bc-3810-4d02-93e2-9332b6fe593c",
+          "title": "Complete Mathematics Practice",
+          "description": "Work through this week's calculus problem set.",
+          "category": "Study",
+          "priority": "Medium",
+          "status": "To Do",
+          "dueDate": "2026-10-09",
+          "dueTime": "18:00",
+          "reminder": "2026-10-09T18:00",
+          "subtasks": [],
+          "createdAt": "2026-10-06T21:41:59.968Z",
+          "updatedAt": "2026-10-06T21:41:59.968Z"
+        },
+        {
+          "id": "995b5bc6-2a79-4f44-ae45-f7578d28f215",
+          "title": "Submit Software Engineering Lab",
+          "description": "Package the project files and upload the lab report.",
+          "category": "Study",
+          "priority": "High",
+          "status": "To Do",
+          "dueDate": "2026-10-10",
+          "dueTime": "16:00",
+          "reminder": "2026-10-10T16:00",
+          "subtasks": [],
+          "createdAt": "2026-10-06T21:41:59.968Z",
+          "updatedAt": "2026-10-06T21:41:59.968Z"
+        },
+        {
+          "id": "8093262d-94f2-4d44-8e28-6aeeb96c4fb5",
+          "title": "Buy Study Materials",
+          "description": "Pick up the recommended textbook and a few supplies.",
+          "category": "Shopping",
+          "priority": "Low",
+          "status": "To Do",
+          "dueDate": "2026-10-11",
+          "dueTime": "12:00",
+          "reminder": "2026-10-11T12:00",
+          "subtasks": [],
+          "createdAt": "2026-10-06T21:41:59.968Z",
+          "updatedAt": "2026-10-06T21:41:59.968Z"
+        },
+        {
+          "id": "88d0aca9-ce11-4e81-8f31-9f56c4779bba",
+          "title": "Morning Workout",
+          "description": "A short strength session and a cooldown walk.",
+          "category": "Health",
+          "priority": "Low",
+          "status": "Completed",
+          "dueDate": "2026-10-06",
+          "dueTime": "07:30",
+          "reminder": "",
+          "subtasks": [],
+          "createdAt": "2026-10-06T21:41:59.968Z",
+          "updatedAt": "2026-10-06T21:41:59.968Z"
+        },
+        {
+          "id": "8814c782-7a5b-4f9f-8bab-0801f587b031",
+          "title": "Plan the Weekend",
+          "description": "Block out some time to recharge and catch up with friends.",
+          "category": "Personal",
+          "priority": "Low",
+          "status": "Completed",
+          "dueDate": "2026-10-05",
+          "dueTime": "19:00",
+          "reminder": "",
+          "subtasks": [],
+          "createdAt": "2026-10-06T21:41:59.968Z",
+          "updatedAt": "2026-10-06T21:41:59.968Z"
+        },
+        {
+          "id": "ae047524-ac5b-4203-9895-ed7f42f71e70",
+          "title": "Review project notes",
+          "description": "Capture the decisions and action items from the client call.",
+          "category": "Work",
+          "priority": "Medium",
+          "status": "Completed",
+          "dueDate": "2026-10-04",
+          "dueTime": "11:00",
+          "reminder": "",
+          "subtasks": [],
+          "createdAt": "2026-10-06T21:41:59.968Z",
+          "updatedAt": "2026-10-06T21:41:59.968Z"
+        }
+      ],
+      "categories": [
+        "Work",
+        "Study",
+        "Personal",
+        "Health",
+        "Shopping",
+        "Other"
+      ],
+      "preferences": {
+        "theme": "light",
+        "emailNotifications": true,
+        "taskReminders": true,
+        "deadlineNotifications": true
+      }
+    }
+  ]
+}
